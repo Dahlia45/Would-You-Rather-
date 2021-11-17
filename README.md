@@ -9,14 +9,37 @@ Users will be able to answer questions, see which questions they haven't yet ans
 * start the development server with `npm start`
 * open your browser at port 3000 with the address: http://localhost:3000
 
-## Task lists 
+## Example:
 
+ ### Login / Logout page
+<img width="1440" alt="Screen Shot 2021-11-17 at 3 18 12 AM" src="https://user-images.githubusercontent.com/92329244/142095100-c80a8457-5660-4c4c-a3f0-9f2335b5ae7f.png">
 
+<img width="305" alt="Screen Shot 2021-11-17 at 3 21 56 AM" src="https://user-images.githubusercontent.com/92329244/142095517-f6151791-c15c-4a71-9892-9125e353780e.png">
 
+ ### Home page 
+<img width="1440" alt="Screen Shot 2021-11-17 at 3 18 40 AM" src="https://user-images.githubusercontent.com/92329244/142096121-f1a3b491-3077-4dd4-8b1b-98c62231f9c6.png">
 
+ ### Error page 
+ 
+ <img width="1440" alt="Screen Shot 2021-11-17 at 3 35 32 AM" src="https://user-images.githubusercontent.com/92329244/142095632-bf693c9b-8e05-4afa-8256-5f24101af911.png">
 
+ ### UnAnswered question 
 
+<img width="779" alt="Screen Shot 2021-11-17 at 3 19 54 AM" src="https://user-images.githubusercontent.com/92329244/142096181-650a124c-9251-49e9-af8b-a9e27bf92746.png">
 
+ ### Answered question 
+ 
+<img width="781" alt="Screen Shot 2021-11-17 at 3 20 45 AM" src="https://user-images.githubusercontent.com/92329244/142095932-65f90fd3-2b3c-4f8f-a47d-5aab92e3bde5.png">
+
+ ### New question 
+ <img width="692" alt="Screen Shot 2021-11-17 at 3 21 14 AM" src="https://user-images.githubusercontent.com/92329244/142096327-21d1a9e2-1e52-48cb-bbf1-db590e86467d.png">
+
+ 
+ ### Leader board 
+ <img width="739" alt="Screen Shot 2021-11-17 at 3 21 34 AM" src="https://user-images.githubusercontent.com/92329244/142096334-93463c7b-c2be-4165-8558-46c6268e273f.png">
+
+ 
+ 
  ## Task lists 
 ### main
 
